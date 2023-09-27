@@ -1,1 +1,1 @@
-# Building A Portfolio Website using HTML, CSS & JS
+# Building A Portfolio Website using HTML, CSS
